@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+}
+.zuoye{
+	font-weight: bold; 
+	font-size:150%;
+}
+.but1{
+	position: absolute;
+	bottom: 692px;
+	right: 1400px;
+}
+
+.but2{
+	position: absolute;
+	bottom: 692px;
+	right: 1372px;
+}
+.but3{
+	position: absolute;
+	bottom: 692px;
+	right: 1344px;
+}
+.but4{
+	position: absolute;
+	bottom: 692px;
+	right: 1316px;
+}
+

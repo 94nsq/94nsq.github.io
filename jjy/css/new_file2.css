@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial;
+}
+.but1{
+	font-size: 200%;
+}
+.zhu button{
+	position: absolute;
+	border-style:none;
+	background:transparent;
+	border-width: 0px;
+	opacity:100%;/*透明度*/
+	color: white;
+	bottom: 350px;
+	right:90%;
+}
+.shupai{
+	position: absolute;
+	color: white;
+	font-size: 70px;
+	right:5px;
+	top:-50px;
+}
+.z1{
+	position: absolute;
+	top: 345px;
+	left:50px;
+	width: 350px;
+	height: 400px;
+}
+.z2{
+	position: absolute;
+	top: 550px;
+	left:1200px;
+	width: 150px;
+	height: 150px;
+}
