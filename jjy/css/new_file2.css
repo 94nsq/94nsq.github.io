@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+	background-color: #2A2B30;
+	color: white;
+}
+.zuoye{
+	font-weight: bold; 
+	font-size:150%;
+	right:-100px;
+}
