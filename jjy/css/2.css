@@ -1,0 +1,41 @@
+@font-face {
+	font-family: 'bpicons';
+	font-weight: normal;
+	font-style: normal;
+
+	src: url('../fonts/bpicons/bpicons.eot');
+	src: url('../fonts/bpicons/bpicons.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/bpicons/bpicons.woff') format('woff'),
+	url('../fonts/bpicons/bpicons.ttf') format('truetype'),
+	url('../fonts/bpicons/bpicons.svg#bpicons') format('svg');
+} 
+*,
+*:after,
+*:before {
+	box-sizing: border-box;
+}
+
+body,
+html {
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	color: #CECECE;
+	background: #2A2B30;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a {
+	text-decoration: none;
+	color: #f0f0f0;
+	outline: none;
+}
+
+a:hover {
+	color: #516977;
+}
